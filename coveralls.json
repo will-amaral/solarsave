@@ -1,0 +1,16 @@
+{
+  "skip_files": [
+    "lib/finances/application.ex",
+    "lib/finances/release.ex",
+    "lib/finances/mailer.ex",
+    "lib/finances/repo.ex",
+    "lib/finances.ex",
+    "lib/finances_web.ex",
+    "lib/finances_web/router.ex",
+    "lib/finances_web/telemetry.ex",
+    "lib/finances_web/components/layouts.ex",
+    "lib/finances_web/controllers/page_html.ex",
+    "lib/finances_web/endpoint.ex",
+    "lib/finances_web/gettext.ex"
+  ]
+}
